@@ -1,2 +1,1 @@
-# Balloon-Shooting
-JS/CSS/HTML project
+# Balloon-shooter-game
